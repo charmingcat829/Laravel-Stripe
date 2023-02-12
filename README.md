@@ -1,4 +1,3 @@
-
 # LaravelStripe
 Laravel Stripe payment
 
@@ -18,11 +17,11 @@ php artisan vendor:publish --provider="Code4mk\LaraStripe\LaraStripeServiceProvi
 
 # Documentation
 
-* [doc](https://github.com/code4mk/lara-stripe/tree/master/doc)
-* [Charge doc](https://github.com/code4mk/lara-stripe/blob/master/doc/charge.md)
-* [Checkout doc](https://github.com/code4mk/lara-stripe/blob/master/doc/payment-checkout.md)
-* [Customer doc](https://github.com/code4mk/lara-stripe/blob/master/doc/customer.md)
-* [Plan doc](https://github.com/code4mk/lara-stripe/blob/master/doc/plan.md)
-* [Subscription doc](https://github.com/code4mk/lara-stripe/blob/master/doc/subscription.md)
-* [Coupon doc](https://github.com/code4mk/lara-stripe/blob/master/doc/coupon.md)
+* [doc](https://github.com/charmingcat829/Laravel-Stripe/tree/master/doc)
+* [Charge doc](https://github.com/charmingcat829/Laravel-Stripe/tree/master/doc/charge.md)
+* [Checkout doc](https://github.com/charmingcat829/Laravel-Stripe/tree/master/doc/payment-checkout.md)
+* [Customer doc](https://github.com/charmingcat829/Laravel-Stripe/tree/master/doc/customer.md)
+* [Plan doc](https://github.com/charmingcat829/Laravel-Stripe/tree/master/doc/plan.md)
+* [Subscription doc](https://github.com/charmingcat829/Laravel-Stripe/tree/master/doc/subscription.md)
+* [Coupon doc](https://github.com/charmingcat829/Laravel-Stripe/tree/master/doc/coupon.md)
 
