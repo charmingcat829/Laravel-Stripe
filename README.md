@@ -26,10 +26,3 @@ php artisan vendor:publish --provider="Code4mk\LaraStripe\LaraStripeServiceProvi
 * [Subscription doc](https://github.com/code4mk/lara-stripe/blob/master/doc/subscription.md)
 * [Coupon doc](https://github.com/code4mk/lara-stripe/blob/master/doc/coupon.md)
 
-# Demo repo
-
-* [lara-stripe-demo github](https://github.com/code4mk/lara-stripe-demo)
-
-# Courtesy
-
-* [stripe/stripe-php](https://github.com/stripe/stripe-php)
